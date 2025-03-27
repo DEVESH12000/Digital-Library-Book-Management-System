@@ -66,7 +66,10 @@ This project is a console-based **Digital Library Book Management System** that 
 - **Java JDK 8 or higher**
 - **Maven** (for building and running tests)
 
-### 🔹 2️⃣ **Clone the Repository**
-```sh
-git clone https://github.com/DEVESH12000/Digital-Library-Book-Management-System.git
-cd Digital-Library-Book-Management-System
+### 🔹 2️⃣ **Run the Application**
+#### Option 1: Download Pre-built JAR
+1. Download the latest release from:  
+   [GitHub Releases](https://github.com/DEVESH12000/Digital-Library-Book-Management-System/releases/latest)
+2. Run using Java:
+   ```bash
+   java -jar dlbms-1.0.0.jar
